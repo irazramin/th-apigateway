@@ -1,0 +1,19 @@
+{
+  "name": "th-apigateway",
+  "version": "1.0.0",
+  "description": "Talenthub Apigateway",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "lodash": "^4.17.21",
+    "mongo": "^0.1.0",
+    "mongoose": "^6.5.3"
+  }
+}
